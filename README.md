@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhnjagtap](https://github.com/bhnjagtap)
 
-- 📫 How to reach me **bhargavjagtap41050@gmail.com**
+- 📫 How to reach me **jagtapb977@gmail.com**
 
 - ⚡ Fun fact **i am kind of sarcastic**
 
