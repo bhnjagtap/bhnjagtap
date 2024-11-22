@@ -32,14 +32,22 @@ Analytical Thinking & Problem-Solving
 Effective Communication, Critical Thinking
 Team Collaboration, Attention to Detail
 Adaptability & Time Management
-<h2 align="center">✨ AI & ML Tech Stack: The Power of Artificial Intelligence</h2>
+<h2 align="center">✨ Tech Stack: Artificial Intelligence, Machine Learning & Web Development</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="50"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="50"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" height="50"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="50"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="50"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="50"/>
+  <img src="https://img.shields.io/badge/PowerBI-692D91?style=flat-square&logo=powerbi&logoColor=white" alt="PowerBI" height="50"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="50"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="50"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="Microsoft Office" height="50"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="50"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="50"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" height="50"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="50"/>
   <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="50"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="50"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" height="50"/>
