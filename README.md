@@ -1,9 +1,37 @@
-<h1 align="center">Hi 👋, I'm Bhargav Jagtap</h1> <h3 align="center">An AI enthusiast with a passion for data analytics, machine learning, and crafting innovative solutions with Python</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhnjagtap&label=Profile%20Views&color=0e75b6&style=flat" alt="bhnjagtap" /> </p> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhnjagtap&theme=radical&row=1&no-frame=true&margin-w=15&margin-h=15" alt="bhnjagtap" /></a> </p>
-👨‍💻 Check out my projects on GitHub
-💡 My interests: Artificial Intelligence, Machine Learning, and Data Science
-📝 Read my thoughts and blogs at Medium
-📫 Reach me at jagtapb977@gmail.com
-⚡ Fun Fact: I add a dash of sarcasm to everything, even my code!
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/bhargav-jagtap" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhargav-jagtap" height="30" width="40" /> </a> <a href="https://www.kaggle.com/bhargjagt" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhargjagt" height="30" width="40" /> </a> </p>
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> <a href="https://tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.tableau.com/sites/default/files/pages/tableau_rgb_500x104.png" alt="tableau" width="70" height="40"/> </a> </p>
-<h3 align="left">GitHub Stats:</h3> <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhnjagtap&show_icons=true&locale=en&layout=compact&theme=radical" alt="bhnjagtap" /> </p> <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&locale=en&theme=radical" alt="bhnjagtap" /> </p> <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhnjagtap&theme=radical" alt="bhnjagtap" /> </p>
+<h1 align="center">🤖 Welcome to My AI-Driven Universe 🌌</h1> <h3 align="center">🌱 Data Science & Machine Learning Enthusiast | Exploring Advanced Tech for a Smarter Future 🚀</h3>
+🌟 About Me
+🤖 Tech Explorer: Passionate about AI, Data Science, and Analytics.
+🛰️ Building the Future: Creating intelligent systems, advanced visualizations, and generative AI applications.
+💡 Inspired by Innovation: Combining cutting-edge technology with analytical thinking to drive meaningful solutions.
+🌍 Let's Connect: Reach me at jagtapb977@gmail.com.
+<h2 align="center">🛠️ My Skills: Powering the Next Tech Revolution</h2>
+💻 Languages
+Python, SQL, R, HTML, CSS, JavaScript
+Object-Oriented Programming (OOP), Data Structures & Algorithms
+⚙️ Frameworks & Libraries
+Django, REST API, Channels
+Web Scraping (Beautiful Soup), Scikit-learn
+📊 Data Analysis & Visualization
+Pandas, NumPy, Matplotlib, Seaborn, Statistical Analysis
+Power BI, Tableau, Microsoft Excel, Google Sheets
+📂 Database Management
+MySQL, SQLite, MongoDB, Microsoft SQL Server
+🔧 Tools & Technologies
+Microsoft Office Suite (Excel, PowerPoint)
+Jupyter Notebook, Visual Studio Code
+Apache Spark (Basic Understanding), Git & GitHub
+AWS (Basic Cloud Computing Knowledge), ETL (Extract, Transform, Load)
+📈 Business Analysis & BI Skills
+Requirement Gathering, Business Process Mapping
+Data Cleaning, Exploratory Data Analysis (EDA), Data Modelling
+KPI Tracking, Dashboard Development, Agile Methodology Basics
+Generative AI Implementation
+🤝 Soft Skills
+Analytical Thinking & Problem-Solving
+Effective Communication, Critical Thinking
+Team Collaboration, Attention to Detail
+Adaptability & Time Management
+<h2 align="center">✨ Tech Stack: Shaping Tomorrow's World</h2> <p align="center"> <img src="https://img.icons8.com/ios-filled/50/26e07f/python.png" alt="Python" height="50" width="50" /> <img src="https://img.icons8.com/ios-filled/50/26e07f/sql.png" alt="SQL" height="50" width="50" /> <img src="https://img.icons8.com/ios-filled/50/26e07f/django.png" alt="Django" height="50" width="50" /> <img src="https://img.icons8.com/ios-filled/50/26e07f/api.png" alt="REST API" height="50" width="50" /> <img src="https://img.icons8.com/ios-filled/50/26e07f/power-bi.png" alt="Power BI" height="50" width="50" /> <img src="https://img.icons8.com/ios-filled/50/26e07f/tableau-software.png" alt="Tableau" height="50" width="50" /> <img src="https://img.icons8.com/ios-filled/50/26e07f/mongodb.png" alt="MongoDB" height="50" width="50" /> </p>
+<h2 align="center">📊 GitHub Stats: My Journey in Code</h2> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=chartreuse-dark" alt="Top Languages" /> </p> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" /> </p> <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhnjagtap&theme=chartreuse-dark" alt="GitHub Streaks" /> </p>
+<h2 align="center">🚀 Let's Build the Future Together</h2> <p align="center"> <a href="https://linkedin.com/in/bhargav-jagtap" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-Bhargav%20Jagtap-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://www.kaggle.com/bhargjagt" target="blank"> <img src="https://img.shields.io/badge/Kaggle-Bhargav%20Jagtap-%2320BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle" /> </a> <a href="https://medium.com/@bhnjagtap" target="blank"> <img src="https://img.shields.io/badge/Medium-Bhargav%20Jagtap-%2312100E?style=for-the-badge&logo=medium" alt="Medium" /> </a> </p>
+💬 Fun Fact: "AI doesn’t just analyze the world; it creates the next chapter in humanity's story."
