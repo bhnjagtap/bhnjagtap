@@ -35,13 +35,13 @@ Adaptability & Time Management
 <h2 align="center">✨ AI & ML Tech Stack: The Power of Artificial Intelligence</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/python.png" alt="Python" height="50" width="50" />
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/sql.png" alt="SQL" height="50" width="50" />
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/tensorflow.png" alt="TensorFlow" height="50" width="50" />
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/keras.png" alt="Keras" height="50" width="50" />
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/pytorch.png" alt="PyTorch" height="50" width="50" />
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/scikit-learn.png" alt="Scikit-learn" height="50" width="50" />
-  <img src="https://img.icons8.com/ios-filled/50/26e07f/docker.png" alt="Docker" height="50" width="50" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="50"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="50"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="50"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" height="50"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="50"/>
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="50"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="50"/>
 </p>
 <h2 align="center">📊 GitHub Stats: My Journey in AI & ML</h2> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=chartreuse-dark" alt="Top Languages" /> </p> <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" /> </p> <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhnjagtap&theme=chartreuse-dark" alt="GitHub Streaks" /> </p>
 <h2 align="center">🚀 Let's Build the Future of AI & ML Together</h2> <p align="center"> <a href="https://linkedin.com/in/bhargav-jagtap" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-Bhargav%20Jagtap-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /> </a> <a href="https://www.kaggle.com/bhargjagt" target="blank"> <img src="https://img.shields.io/badge/Kaggle-Bhargav%20Jagtap-%2320BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle" /> </a> <a href="https://medium.com/@bhnjagtap" target="blank"> <img src="https://img.shields.io/badge/Medium-Bhargav%20Jagtap-%2312100E?style=for-the-badge&logo=medium" alt="Medium" /> </a> </p>
