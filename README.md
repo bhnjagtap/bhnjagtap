@@ -1,5 +1,8 @@
 ## 🤖 Welcome to My Universe 🌌
 
+![AI and ML GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdpZWJlcnhrYzZ1aG9sb29icWxuZDIwdzQzODI2OW9sMHB1d3F5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XAxylRMCdpbEWUAvr8/giphy.gif)
+
+
 ### 🌱 Data Analytics | Business Intelligence | Machine Learning Enthusiast 🚀
 
 ---
