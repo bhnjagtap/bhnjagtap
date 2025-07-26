@@ -125,5 +125,4 @@ To work in dynamic and growth-oriented environments where I can contribute as a 
 
 ## 🎞️ Visual Representation
 
-![AI and ML GIF][(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdpZWJlcnhrYzZ1aG9sb29icWxuZDIwdzQzODI2OW9sMHB1d3F5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XAxylRMCdpbEWUAvr8/giphy.gif)
-](https://chatgpt.com/s/m_6884b594f3648191b73d6166714b611a)
+![AI and ML GIF](https://chatgpt.com/s/m_6884b594f3648191b73d6166714b611a)
