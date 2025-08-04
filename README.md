@@ -110,7 +110,7 @@ To work in dynamic and growth-oriented environments where I can contribute as a 
   <a href="https://www.kaggle.com/bhargjagt" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-Bhargav%20Jagtap-%2320BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle" />
   </a>
-  <a href="https://medium.com/@bhnjagtap" target="_blank">
+  <a href="https://medium.com/@WritesByBhargav" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Bhargav%20Jagtap-%2312100E?style=for-the-badge&logo=medium" alt="Medium" />
   </a>
 </p>
