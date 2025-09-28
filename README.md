@@ -2,9 +2,9 @@
   Profile README for Bhargav Jagtap
   - Replace the placeholder links (YOUR_LINK_HERE) with your actual links
   - Add or remove bullets/projects as you like
--->
 
-                                                                                 # Hi 👋, I'm Bhargav Jagtap
+ -->
+ ##################################### Hi 👋, I'm Bhargav Jagtap
 
 ### A Data Analyst / Aspiring Data Scientist
 
