@@ -17,15 +17,6 @@
 
 ---
 
-## 🌟 About Me
-
-- 📊 **Aspiring Data Analyst & ML Practitioner**: Focused on turning complex data into meaningful insights and intelligent solutions using Machine Learning and analytics.
-- 🤖 **Smart Solutions Builder**: Leveraging ML models and data-driven approaches to solve real-world problems in domains like finance, healthcare, and business operations.
-- 💼 **BI-Driven Decision Maker**: Passionate about storytelling through dashboards, KPIs, and business data visualization.
-- 🌍 **Let’s Connect**: Reach me at [jagtapb977@gmail.com](mailto:jagtapb977@gmail.com).
-
----
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhargav-jagtap)  
