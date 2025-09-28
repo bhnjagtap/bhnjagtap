@@ -4,7 +4,7 @@
   - Add or remove bullets/projects as you like
 
  -->
- # Hi 👋, I'm Bhargav Jagtap
+  # Hi 👋, I'm Bhargav Jagtap
 
 ### A Data Analyst / Aspiring Data Scientist
 
