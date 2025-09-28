@@ -1,6 +1,19 @@
-## 🤖 Welcome to My Universe 🌌
+<!--
+  Profile README for Bhargav Jagtap
+  - Replace the placeholder links (YOUR_LINK_HERE) with your actual links
+  - Add or remove bullets/projects as you like
+-->
 
-### 🌱 Data Analytics | Business Intelligence | Machine Learning Enthusiast 🚀
+# Hi 👋, I'm Bhargav Jagtap
+
+### A Data Analyst / Aspiring Data Scientist
+
+- 🔭 I'm currently working on **WeatherProject** (Django + OpenWeatherMap API).  
+- 🌱 I'm learning **Deep Learning, Natural Language Processing (NLP)** and advanced model deployment.  
+- 👨‍💻 All of my projects are available at: https://github.com/BhargavJagtap (replace with your username repo page)  
+- 💬 Ask me about **DATA ANALYTICS**, **Python**, **SQL**, **Power BI**, and building dashboards.  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINK_HERE)  
+- 📄 Portfolio / project pages: https://YOUR-PAGE-HERE
 
 ---
 
@@ -60,41 +73,39 @@
 
 ---
 
-## 🚀 My Tech Stack
+## 🔗 Connect with me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="30"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" height="30"/>
-  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="30"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" height="30"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" height="30"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" height="30"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="30"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=white" alt="Power BI" height="30"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" height="30"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" height="30"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" height="30"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" height="30"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" height="30"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" height="30"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="30"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" height="30"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhargav-jagtap)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://www.github.com/bhnjagtap)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FFFFFF?style=flat-square&logo=google-chrome&logoColor=black)](https://YOUR-PAGE-HERE)
 
 ---
 
-## 🎯 Career Goal
+## 🧰 Languages & Tools
+
+(These are badge-style icons — replace or remove as you like)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=flat-square&logo=microsoft-power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-4E9BCD?style=flat-square&logo=tableau&logoColor=white)
+
+---
+
+## Career Goal
 
 To work in dynamic and growth-oriented environments where I can contribute as a **Data Analyst**, **Business Intelligence Developer**, or **Machine Learning Engineer** — building impactful solutions that blend data science, AI, and business strategy to drive smarter decisions.
 
 ---
 
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
@@ -123,6 +134,4 @@ To work in dynamic and growth-oriented environments where I can contribute as a 
 
 ---
 
-## 🎞️ Visual Representation
 
-![AI and ML GIF](https://chatgpt.com/s/m_6884b594f3648191b73d6166714b611a)
