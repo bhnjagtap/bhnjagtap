@@ -26,53 +26,6 @@
 
 ---
 
-## 🛠️ My Technical Toolbox
-
-### 💻 Programming Languages
-
-- Python, SQL, R, HTML, CSS, JavaScript  
-- OOP, DSA fundamentals, API Integration
-
-### 🤖 Machine Learning & AI
-
-- Scikit-learn, TensorFlow, Keras, PyTorch  
-- Computer Vision (OpenCV), NLP, Classification/Regression Models  
-- XGBoost, LightGBM, CatBoost  
-- Model evaluation, hyperparameter tuning
-
-### 📊 Data Analysis & Visualization
-
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Power BI, Tableau, Microsoft Excel  
-- Statistical Analysis, Data Wrangling, EDA
-
-### 🧠 Business Intelligence & Analytics
-
-- Business Requirement Gathering, Agile Basics  
-- Data Modeling, KPI Design & Reporting  
-- Dashboard Development, Process Automation  
-- Generative AI for Business Use-Cases
-
-### 🗄️ Databases & Backend
-
-- MySQL, MongoDB, SQLite, Microsoft SQL Server  
-- ETL Concepts, Data Pipelines
-
-### 🧰 Tools & Platforms
-
-- Jupyter Notebook, VS Code, Git & GitHub  
-- Docker, Kubernetes (Basic), AWS (Basic), Streamlit, Django  
-- Apache Spark (Basics), REST APIs
-
-### 🤝 Soft Skills
-
-- Strong Analytical & Problem Solving  
-- Communication, Critical Thinking  
-- Team Collaboration, Adaptability  
-- Time Management, Detail Orientation
-
----
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/bhargav-jagtap)  
