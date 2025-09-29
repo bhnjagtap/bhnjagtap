@@ -90,9 +90,9 @@ To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — buildi
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=blue" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&theme=blue" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhnjagtap&theme=blue" alt="GitHub Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhnjagtap&theme=dark" alt="GitHub Streaks" />
 </p>
 
 ---
