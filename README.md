@@ -18,10 +18,20 @@
 
 ## 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-jagtap) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhnjagtap) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/bhargjagt) 
-[![Medium](https://img.shields.io/badge/Medium-%2312100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@WritesByBhargav)
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhargav-jagtap">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="https://github.com/bhnjagtap">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.kaggle.com/bhargjagt">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35"/>
+  </a>
+  <a href="https://medium.com/@WritesByBhargav">
+    <img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" height="35"/>
+  </a>
+</p>
 
 ---
 
