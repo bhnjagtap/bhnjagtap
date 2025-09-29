@@ -18,12 +18,20 @@
 
 ## 🔗 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-jagtap)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bhnjagtap)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat-square&logo=kaggle&logoColor=white)]([[https://www.kaggle.com/bhargjagt])  
-[![Medium](https://img.shields.io/badge/Medium-%2312100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@WritesByBhargav)  
-
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhargav-jagtap" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/bhnjagtap" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/bhargjagt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@WritesByBhargav" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🧰 Languages & Tools  
 
