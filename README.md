@@ -79,7 +79,6 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
 
-
 ## 🎯 Career Goal  
 
 To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — building intelligent solutions that combine **data analytics, AI/ML, and cloud technologies** to solve business challenges and enable data-driven decision making.  
