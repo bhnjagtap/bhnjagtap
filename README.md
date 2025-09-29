@@ -76,14 +76,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <!-- GitHub -->
     <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-  
-  <!-- Tableau -->
-  <a href="https://www.tableau.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
-  </a>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
 
 
 ## 🎯 Career Goal  
