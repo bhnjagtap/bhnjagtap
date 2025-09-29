@@ -3,7 +3,7 @@
   - Replace placeholders with your actual links
 -->
 
-# Hi 👋, I'm Bhargav Jagtap  
+<h1 align="center">Hi 👋, I'm Bhargav Jagtap</h1>
 
 ### Data Analyst | Aspiring Data Scientist | Future Data Engineer  
 
