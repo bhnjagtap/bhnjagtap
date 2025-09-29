@@ -18,7 +18,7 @@
 
 ## 🔗 Connect with Me  
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/bhargav-jagtap">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
   </a>
@@ -70,11 +70,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <!-- GitHub -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-1D72B8?style=for-the-badge&logo=agile&logoColor=white)
-</p>
+    <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+  
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tableau.svg" alt="Tableau" width="40" height="40"/>
+  </a>
+
 
 ## 🎯 Career Goal  
 
