@@ -8,7 +8,7 @@
 ### Data & Business Analyst | Aspiring Data Scientist | Future Data Engineer  
 
 - 🔭 Currently Working on the Data science and AI projects.  
-- 🌱 Expanding knowledge in **Machine Learning, Deep Learning, NLP, and Data Engineering pipelines**.  
+- 🌱 Expanding knowledge in **Machine Learning,Cloud Computing, Deep Learning, NLP, and Data Engineering pipelines**.  
 - 👨‍💻 Explore my work: [GitHub](https://github.com/bhnjagtap)  
 - 💬 Let’s talk about **Python, Data Analytics, SQL, Machine Learning, AI/ML projects, and Dashboarding (Power BI / Tableau)**.  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bhargav-jagtap)  
