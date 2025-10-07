@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Bhargav Jagtap</h1>
 
-### Data & Business Analyst | Aspiring Data Scientist | Future Data Engineer  
+### AI/ML & Cloud | Aspiring AI Engineer | Data, Cloud Enthusiastic
 
 - 🔭 Currently Working on the Data science and AI projects.  
 - 🌱 Expanding knowledge in **Machine Learning, Cloud Computing, Deep Learning, NLP, and Data Engineering pipelines**.  
