@@ -99,10 +99,10 @@ To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — buildi
 [![Profile Views](https://komarev.com/ghpvc/?username=bhnjagtap&color=00ffff&style=flat-square)](https://github.com/bhnjagtap)
 
 ### 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=radical)](https://github.com/bhnjagtap)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=tokyonight)](https://github.com/bhnjagtap)
 
 ### 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&theme=radical)](https://github.com/bhnjagtap)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/bhnjagtap)
 
 ### 🔥 Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bhnjagtap&theme=react-dark&area=true)
