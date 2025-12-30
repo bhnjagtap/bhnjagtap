@@ -85,11 +85,26 @@ To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — buildi
 
 ---
 
-## 📊 GitHub Stats  
+<!-- ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=dark&title_color=00ffff&icon_color=00ffff&text_color=00ffff&bg_color=000000" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&theme=dark&title_color=00ffff&icon_color=00ffff&text_color=00ffff&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhnjagtap&theme=dark&ring=00ffff&fire=00ffff&currStreakNum=00ffff&stroke=00ffff" alt="GitHub Streaks" />
+</p> --->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&theme=dark&title_color=00ffff&icon_color=00ffff&text_color=00ffff&bg_color=000000" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=dark&title_color=00ffff&icon_color=00ffff&text_color=00ffff&bg_color=000000" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Streak Stats Alternative using Vercel-hosted API -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhnjagtap&theme=dark&ring=00ffff&fire=00ffff&currStreakNum=00ffff&stroke=00ffff" alt="GitHub Streaks" />
 </p>
 
