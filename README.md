@@ -106,6 +106,36 @@ To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — buildi
 ![Commits](https://img.shields.io/badge/Commit%20Activity-Active-00ffff?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=bhnjagtap&color=00ffff&style=for-the-badge)
 
+## ⚡ GitHub Pulse
+
+<div align="center">
+
+### 🔹 **Activity Heat**
+<img src="https://img.shields.io/badge/Commits-⚡%20Pushing-00ffff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flow-Active%20Developer-00ffff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-High-00ffff?style=for-the-badge" />
+
+<br><br>
+
+### 🔹 **Profile Impact**
+<img src="https://img.shields.io/github/followers/bhnjagtap?style=for-the-badge&color=00ffff" />
+<img src="https://img.shields.io/github/stars/bhnjagtap?style=for-the-badge&color=00ffff" />
+<img src="https://img.shields.io/badge/Reach-Growing-00ffff?style=for-the-badge" />
+
+<br><br>
+
+### 🔹 **Build Mode**
+<img src="https://img.shields.io/badge/Projects-Under%20Construction-00ffff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Code%20Quality-Rising-00ffff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Consistency-🔥%20Daily-00ffff?style=for-the-badge" />
+
+<br><br>
+
+### 🔹 **Live Profile View Counter**
+<img src="https://komarev.com/ghpvc/?username=bhnjagtap&color=00ffff&style=for-the-badge" />
+
+</div>
+
 
 ### 🔥 Contribution Graph (Stable)
 ![GitHub Snake](https://raw.githubusercontent.com/bhnjagtap/bhnjagtap/output/github-contribution-grid-snake.svg)
