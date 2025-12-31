@@ -104,21 +104,21 @@ To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — buildi
 <img src="https://img.shields.io/badge/Workflow-In%20Motion-006400?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Focus-High-006400?style=for-the-badge" />
 
-<br><br>
+<br>
 
 ###  **Profile Impact**
 <img src="https://img.shields.io/github/followers/bhnjagtap?style=for-the-badge&color=006400" />
 <img src="https://img.shields.io/github/stars/bhnjagtap?style=for-the-badge&color=006400" />
 <img src="https://img.shields.io/badge/Reach-Expanding-006400?style=for-the-badge" />
 
-<br><br>
+<br>
 
 ###  **Build Mode**
 <img src="https://img.shields.io/badge/Projects-Under%20Build-006400?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Code%20Quality-Rising-006400?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Consistency-Daily-006400?style=for-the-badge" />
 
-<br><br>
+<br>
 
 ###  **Live Profile Views**
 <img src="https://komarev.com/ghpvc/?username=bhnjagtap&color=006400&style=for-the-badge" />
