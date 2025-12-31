@@ -95,17 +95,6 @@ To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — buildi
 
 ## 📊 GitHub Stats & Activity
 
-## 📊 GitHub Activity
-
-### 🏆 Profile Stats
-![Followers](https://img.shields.io/github/followers/bhnjagtap?style=for-the-badge&color=00ffff)
-![Stars](https://img.shields.io/github/stars/bhnjagtap?style=for-the-badge&color=00ffff)
-![Repos](https://img.shields.io/badge/Public%20Repos-✔-00ffff?style=for-the-badge)
-
-### 📈 Activity
-![Commits](https://img.shields.io/badge/Commit%20Activity-Active-00ffff?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=bhnjagtap&color=00ffff&style=for-the-badge)
-
 ## ⚡ GitHub Pulse
 
 <div align="center">
