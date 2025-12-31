@@ -124,15 +124,6 @@ To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — buildi
 <img src="https://komarev.com/ghpvc/?username=bhnjagtap&color=006400&style=for-the-badge" />
 
 </div>
-## Activity Matrix
-> Real-time contribution flow rendered in a dark-green cyber theme.
-
-![Activity Matrix](https://raw.githubusercontent.com/bhnjagtap/bhnjagtap/output/snake-matrix.svg)
-
-## Operational Footprint
-Status visualization of code deployments, iterations, and contribution flow.
-
-![Ops Trace](https://raw.githubusercontent.com/bhnjagtap/bhnjagtap/output/snake-ops.svg)
 
 ### 🔥 Contribution Graph (Stable)
 ![GitHub Snake](https://raw.githubusercontent.com/bhnjagtap/bhnjagtap/output/github-contribution-grid-snake.svg)
