@@ -95,17 +95,21 @@ To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — buildi
 
 ## 📊 GitHub Stats & Activity
 
-### 🏆 GitHub Profile
-[![Profile Views](https://komarev.com/ghpvc/?username=bhnjagtap&color=00ffff&style=flat-square)](https://github.com/bhnjagtap)
+## 📊 GitHub Stats
 
-### 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhnjagtap&layout=compact&theme=tokyonight)](https://github.com/bhnjagtap)
+### 🏆 Profile Badges
+![Profile Views](https://img.shields.io/badge/Profile%20Views-✔-00ffff?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/bhnjagtap?style=for-the-badge&color=00ffff)
+![Stars](https://img.shields.io/github/stars/bhnjagtap?style=for-the-badge&color=00ffff)
 
-### 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhnjagtap&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/bhnjagtap)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
 
-### 🔥 Contribution Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bhnjagtap&theme=react-dark&area=true)
+### 📈 Basic Stats
+![Repo Count](https://img.shields.io/badge/Public%20Repos-✔-00ffff?style=for-the-badge)
+![Commit Activity](https://img.shields.io/badge/Commits-Active-00ffff?style=for-the-badge)
 
 
 
