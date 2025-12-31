@@ -95,28 +95,20 @@ To contribute as a **Data Analyst, Data Scientist, or Data Engineer** — buildi
 
 ## 📊 GitHub Stats & Activity
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-### 🏆 Profile Badges
-![Profile Views](https://img.shields.io/badge/Profile%20Views-✔-00ffff?style=for-the-badge)
+### 🧩 Profile Overview
 ![Followers](https://img.shields.io/github/followers/bhnjagtap?style=for-the-badge&color=00ffff)
 ![Stars](https://img.shields.io/github/stars/bhnjagtap?style=for-the-badge&color=00ffff)
+![Repos](https://img.shields.io/badge/Public%20Repos-Available-00ffff?style=for-the-badge)
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+### 🏆 Highlights
+![Commit Activity](https://img.shields.io/badge/Commit%20Activity-Consistent-00ffff?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues-closed/bhnjagtap?style=for-the-badge&color=00ffff)
+![PRs](https://img.shields.io/github/issues-pr-closed/bhnjagtap?style=for-the-badge&color=00ffff)
 
-### 📈 Basic Stats
-![Repo Count](https://img.shields.io/badge/Public%20Repos-✔-00ffff?style=for-the-badge)
-![Commit Activity](https://img.shields.io/badge/Commits-Active-00ffff?style=for-the-badge)
-
-
-
-<p align="center">
-  <!-- Streak Stats Alternative using Vercel-hosted API -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhnjagtap&theme=dark&ring=00ffff&fire=00ffff&currStreakNum=00ffff&stroke=00ffff" alt="GitHub Streaks" />
-</p>
+### 🔥 Contribution Graph (Stable)
+![GitHub Snake](https://raw.githubusercontent.com/bhnjagtap/bhnjagtap/output/github-contribution-grid-snake.svg)
 
 
 ---
