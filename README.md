@@ -1,7 +1,7 @@
 ### Hi there 👋 Introducing myself,
 
 <p align="center">
-  <img src="Gemini_Generated_Image_ureh1mureh1mureh.png" alt="Header Banner" width="100%">
+  <img src="Screenshot 2026-08-23 195812.png" alt="Header Banner" width="100%">
 </p>
 
 I'm Bhargav Jagtap, a passionate Data Analyst & Tech Enthusiast with a strong background in Computer Science and hands-on experience across Data Analytics, Cloud Computing, and Quality Engineering.
